@@ -1,0 +1,66 @@
+"","gene_name","full_name","ensembl_id","marker_cell_type","type_label","pathways","proteins","evidence_url_links","other_info","citations","regions_applicable","evidence_type_fromlit","disease_context_ifany"
+"1","SNAP25","synaptosome associated protein 25","ENSG00000132639","excit_neuron; neuron","EXCIT",NA,NA,NA,"makes plasma protein for neurotransmitter release regulation",NA,"dlpfc",NA,NA
+"2","RBFOX3","RNA binding fox-1 homolog 3","ENSG00000167281","neuron","NEUR",NA,NA,NA,"makes NeuN antigen; involved in alternative splicing of mRNA",NA,"dlpfc",NA,NA
+"3","SLC6A17","solute carrier family 6 member 17","ENSG00000197106","excit_neuron; neuron","EXCIT",NA,NA,NA,"member of SLC6 transporters active in presynaptic uptake of neurotransmitters",NA,"dlpfc",NA,NA
+"4","SYT3","synaptotagmin 3","ENSG00000213023","neuron","NEUR",NA,NA,NA,"positive regulation of dendrite extension",NA,"dlpfc",NA,NA
+"5","GABRD","gamma-aminobutyric acid type A receptor subunit delta","ENSG00000187730","inhib_neuron; neuron","INHIB",NA,NA,NA,"encodes GABA receptor subunit; mutations associated with epilepsy, seizures",NA,"dlpfc",NA,NA
+"6","CAMK1G","Calcium/calmodulin dependent protein kinase IG","ENSG00000008118","neuron; excit_neuron; inhib_neuron","NEUR",NA,NA,"protein_atlas; entrez","protein product is similar to calcium dependent kinase; predicted to phosphorylate CREB1 in vitro",NA,"dlpfc",NA,NA
+"7","MOG","myelin oligodendrocyte glycoprotein","ENSG00000204655","glial;oligodendrocyte","OLIGO",NA,NA,"entrez","protein is a cell surface protein on oligodendrocytes; involved in immune-mediated demyelination",NA,"dlpfc",NA,NA
+"8","HLA","major histocompatibility complex, class I, A","ENSG00000206503","microglial; perivascular_macrophage; macrophage; glial","MICRO",NA,NA,NA,NA,"Faraco et al 2017;Swanson et al 2020","dlpfc",NA,NA
+"9","CD68","CD68 molecule","ENSG00000129226","microglial; perivascular_macrophage; macrophage; glial","MICRO",NA,NA,NA,NA,"Faraco et al 2017;Swanson et al 2020","dlpfc",NA,NA
+"10","IBA1",NA,NA,"microglial; perivascular_macrophage; macrophage; glial","MICRO",NA,NA,NA,NA,"Faraco et al 2017;Swanson et al 2022","dlpfc",NA,NA
+"11","TSPO","translocator protein","ENSG00000100300","microglial; astrocyte; glial","MICRO",NA,NA,NA,NA,"De Picker and Morrens 2020;Notter et al 2020","dlpfc",NA,NA
+"12","GFAP","glial fibrillary acidic protein","ENSG00000131095","astrocyte; reactive_astrocyte; glial","ASTRO",NA,NA,NA,NA,"Webster et al 2005;Murphy et al 2020;Tocker et al 2018;Sjostedt et al 2015","dlpfc",NA,NA
+"13","CD163","CD163 molecule","ENSG00000177575","macrophage; general_macrophage; nonspecific_macrophage","MACRO",NA,NA,NA,NA,"Roberts et al 2004;Lisi et al 2017","dlpfc",NA,NA
+"14","CD64",NA,NA,"macrophage; m1like_macrophage","MACRO",NA,NA,NA,NA,"Zhu et al 2022","dlpfc",NA,NA
+"15","CD206",NA,"ENSG00000260314","macrophage; m2like_macrophage","MACRO",NA,NA,NA,NA,"Zhu et al 2022","dlpfc",NA,NA
+"16","IL10","interleukin 10","ENSG00000136634","macrophage; m2like_macrophage","MACRO",NA,NA,NA,NA,"Zhu et al 2022","dlpfc",NA,NA
+"17","NPY","neuropeptide Y","ENSG00000122585","neuron; inhibitory_neuron; inhibitory_inner_neuron","INHIB",NA,NA,NA,NA,"Maynard et al 2021","dlpfc",NA,NA
+"18","NRGN","neurogranin","ENSG00000154146","pyramidal_neuron; excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"19","REEP2","receptor accessory protein 2","ENSG00000132563","pyramidal_neuron; excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"20","GAD1","glutamate decarboxylase 1","ENSG00000128683","pyramidal_neuron; excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"21","PCDHA1","protocadherin alpha 1","ENSG00000204970","pyramidal_neuron; excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"22","SLC17A6","solute carrier family 17 member 6","ENSG00000091664","neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"23","SYP","synaptophysin","ENSG00000102003","neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"24","RAB3A","RAB3A, member RAS oncogene family","ENSG00000105649","neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"25","GABBR2","gamma-aminobutyric acid type B receptor subunit 2","ENSG00000136928","neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"26","SLC1A2","solute carrier family 1 member 2","ENSG00000110436","neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"27","CADM2","cell adhesion molecule 2","ENSG00000175161","neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"28","FAM19A1",NA,NA,"astrocyte; glial","ASTRO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"29","AQP4","aquaporin 4","ENSG00000171885","astrocyte; glial; grey_matter","ASTRO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"30","CLEC2L","C-type lectin domain family 2 member L","ENSG00000236279","astrocyte; glial; white_matter","ASTRO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"31","MBP","myelin basic protein","ENSG00000197971","oligodendrocyte; glial","OLIGO",NA,NA,NA,NA,"Sjostedt et al 2015;Oord and Aberg 2022","dlpfc",NA,NA
+"32","PLP1","proteolipid protein 1","ENSG00000123560","oligodendrocyte; glial","OLIGO",NA,NA,NA,NA,"Sjostedt et al 2015;Oord and Aberg 2022","dlpfc",NA,NA
+"33","SIRT2","sirtuin 2","ENSG00000068903","oligodendrocyte; glial","OLIGO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"34","ERMN","ermin","ENSG00000136541","oligodendrocyte; glial","OLIGO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"35","ITGAM","integrin subunit alpha M","ENSG00000169896","microglia; macrophage; glial; lymph_nodes; bone_marrow","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"36","AIF1","allograft inflammatory factor 1","ENSG00000204472","microglia; macrophage; glial; lymph_nodes; bone_marrow","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"37","ABI3","ABI family member 3","ENSG00000108798","microglia; macrophage; glial","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"38","P2RY12","purinergic receptor P2Y12","ENSG00000169313","microglia; macrophage; glial","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"39","CAV1","caveolin 1","ENSG00000105974","endothelial","ENDO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"40","ABCG2","ATP binding cassette subfamily G member 2","ENSG00000118777","endothelial","ENDO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"41","ABCB1","ATP binding cassette subfamily B member 1","ENSG00000085563","endothelial","ENDO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"42","SLC6A12","solute carrier family 6 member 12","ENSG00000111181","endothelial; only_brain","ENDO",NA,NA,NA,NA,"Sjostedt et al 2015","dlpfc",NA,NA
+"43","GAD67",NA,NA,"neuron; excit_neuron; pyramidal_neuron","EXCIT",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"44","VGLUT2",NA,NA,"neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"45","EAAT2",NA,NA,"neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"46","SYN-CAM2",NA,NA,"neuron","NEUR",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"47","CD11b",NA,NA,"glial; microglial; lymph_nodes; bone_marrow","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"48","IBA1",NA,NA,"glial; microglial; lymph_nodes; bone_marrow","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"49","ABI3",NA,NA,"glial; microglial; lymph_nodes","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"50","NESH",NA,NA,"glial; microglial; lymph_nodes","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"51","P2RY12",NA,NA,"glial; microglial; only_brain","MICRO",NA,NA,NA,NA,"Sjostedt et al 2015",NA,NA,NA
+"52","PDGFRA",NA,NA,"oligodendrocyte_precursor_cells; opc; glial","OPC",NA,NA,NA,NA,"Nagy et al 2020",NA,NA,NA
+"53","PCDH15",NA,NA,"oligodendrocyte_precursor_cells; opc; glial","OPC",NA,NA,NA,NA,"Nagy et al 2020",NA,NA,NA
+"54","CSF1R",NA,NA,"microglial; glial","MICRO",NA,NA,NA,NA,"Mathys et al 2019",NA,NA,NA
+"55","CD74",NA,NA,"microglial; glial","MICRO",NA,NA,NA,NA,"Mathys et al 2019",NA,NA,NA
+"56","VCAN",NA,NA,"oligodendrocyte_precursor_cells; opc; glial","OPC",NA,NA,NA,NA,"Mathys et al 2019",NA,NA,NA
+"57","FLT1",NA,NA,"endothelial_cells; endothelium","ENDO",NA,NA,NA,NA,"Mathys et al 2019",NA,NA,NA
+"58","AMBP",NA,NA,"pericyte","PERI",NA,NA,NA,NA,"Mathys et al 2019",NA,NA,NA
+"59","MOBP",NA,NA,"oligodendrocyte; glial","OLIGO",NA,NA,NA,NA,"Oord and Aberg 2022",NA,NA,NA
+"60","NRG1",NA,NA,"excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Oord and Aberg 2022",NA,NA,NA
+"61","ZNF804B",NA,NA,"excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Oord and Aberg 2022",NA,NA,NA
+"62","CDH12",NA,NA,"excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Oord and Aberg 2022",NA,NA,NA
+"63","CLSTN2",NA,NA,"excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Oord and Aberg 2022",NA,NA,NA
+"64","RIT2",NA,NA,"excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Oord and Aberg 2022",NA,NA,NA
+"65","MCTP1",NA,NA,"excit_neuron; neuron","EXCIT",NA,NA,NA,NA,"Oord and Aberg 2022",NA,NA,NA
